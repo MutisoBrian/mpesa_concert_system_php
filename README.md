@@ -441,5 +441,5 @@ For debugging issues:
 
 This PHP implementation of the concert Ticket System provides a robust backend for concert ticket sales with M-Pesa integration. The single-file architecture makes it easy to deploy while maintaining a structured approach through well-organized functions. By following this documentation, you can set up, customize, and extend the system to meet your specific requirements.
 
-For further assistance or to report issues, please contact Barasa Michael Murunga: 
+For further assistance or to report issues, please contact Brian Omoro: 
 brian.omoro@strathmore.edu
